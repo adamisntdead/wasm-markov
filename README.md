@@ -2,6 +2,8 @@
 
 > Markov Chains Implemented in Rust, Powered By WebAssembly 🔥
 
+![Demo Image](https://cdn.rawgit.com/adamisntdead/wasm-markov/4e072f11/screenshot.png)
+
 ## Usage
 
 First you are gonna have to get Rust at [rust-lang.org](https://www.rust-lang.org/).
